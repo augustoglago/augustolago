@@ -1,7 +1,7 @@
 ### Aoba! Sou o Augusto, conhecido como chocobo
 
 - 🌱 Cursando Ciência da Computação
-- ⚡ Entusiasta de edição de vídeos
+- ⚡ Grava, edita e coda
 
 <div align="center">
   <a href="https://imchocobo.com">
