@@ -1,4 +1,4 @@
-### Aoba! Sou o Augusto, conhecido como chocobo
+### Aoba! Sou o Augusto.
 
 - 🌱 Cursando Ciência da Computação
 - ⚡ Grava, edita e coda
